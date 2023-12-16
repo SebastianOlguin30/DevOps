@@ -1,0 +1,22 @@
+DevOps es un cambio cultural q consiste en el trabajo en conjunto de los ingenieros de desarrollo con los ingeniros de operaciones, los valores de esta cultura son la confianza, comunicacion
+Objetivo de la cultura DevOps : Agilidad
+
+###3 PILARES DE Agilidad
+1.- DEVOPS
+Cambio cultural
+Procesos automatizados
+Infraestructura como codigo
+Infraestructura inmutable
+2.- MICROSERVICIOS
+Diseño de aplicacion flexible
+API REST
+Test by breaking/fails fast
+3.- CONTENEDORES
+Entornos centrados en el desarrollador q proporciona portabilidad y un inicio rapido
+Ecosistema q permite despliegues rapidos con una infraestrcutura inmutable
+
+DevOps para ofrecer velocidad y agilidad
+Microservicios para despliegues pequeños
+Contenedores para tiempos de ejecucion efimeros con un inicio rapido
+
+DevOps tiene 3 dimensiones: Cultura, Metodos y Herramientas

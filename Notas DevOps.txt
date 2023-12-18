@@ -20,3 +20,63 @@ Microservicios para despliegues pequeños
 Contenedores para tiempos de ejecucion efimeros con un inicio rapido
 
 DevOps tiene 3 dimensiones: Cultura, Metodos y Herramientas
+
+Metodologia Waterfall (Cascada)
+
+Requerimientos, Diseño, Codigo, integracion, testing, Despliegue
+
+Problemas de waterfall:
+
+No hay disposicion paar el cambio
+No sabes si funciona hasta el final (No hay entrega intermedia)
+Cada fase tiene problemas que pasan a la siguiente
+Los errores q se detectan mas adelante son muy costosos de reparar
+Estos retrasos generan largos plazos de entrega entre entregas
+Los equipos trabajan por separado y no son conscientes del impacto que tienen los unos en los otros
+Las personas q estan mas alejdas del codigo, el equipo de oepraciones tiene q implementarlo, ejecutarlo y administrarlo en produccion
+
+XP, AGILE and BEYOND
+Describir como XP fue el comienzo de Agile 
+Describir como Agile fue el comienzo de DevOps
+
+En 1996 Kent Beck invento la XP
+Kent se baso en un enfoque iterativo. Describio estos circuitos de retroalimentacion
+La XP tenia por objetivo mejorar la calidad del software y la capacidad de respuesta a las cambiantes necesidades de los clientes.
+La XP de Kent Beck fue uno de los primeros metodos agiles.
+
+en 2001 uno se ideo el manifiesto agile q tenia como valores:
+Valorar a las personas y las interacciones por encima de los procesos y las herramientas.
+Hacer funcionar el software por encima de la documentacion exhaustiva.
+Colaboracion con los clientes por encima de la negociaciond e contratos.
+Responder a los cambios en vez de seguir un plan
+
+DESARROLLO AGILE
+Los requisitos y las soluciones evolucionan a tarves de un esfuerzo entre equipos multidisciplinarios y sus clientes q se autoorganizan.
+Planificacion adaptativa.
+Desarrollo evolutivo.
+Entrega temprana.
+Mejora continua.
+Respuesta rapida y flexible al cambio.
+
+Patrick Debois se dio cuenta de q necesitamos q el personal de operaciones sea agil
+
+Shadow IT
+Hay recursos q la empresa desconoce pq la gente acude al TI shop, pq TI no satisface sus necesidades.
+
+UNA BREVE HISTORIA DE DEVOPS
+Enumerar ejemplos clave del crecimiento de DevOps que se produjo entre 2007 y 2019.
+Resumir la contribucion de personas clave influyentes en el crecimiento de DevOps.
+
+DevOps comenzo en 2007, cuando Patric debois se dio cuenta q Dev y Ops no funcionaban bien juntos
+En 2008 Andrew Clay Chafer organizo una reunion sobre la infraestructura agil
+en 2009 en la conferencia Velocity John Allspaw dio una charla sobre "Mas de 10 despliegues al dia: Cooperacion entre desarrolladores y operaciones en flickr"
+Tambien en 2009 Patrick Debois (Padre de DevOps) celebro la primera conferencia DevOpsDays en Belgica.
+En 2010 Jez Humble y David Farley escribieron un libro titulado Continous Delivery (Implementacion Continua).
+En 2013 Gene Kim junto con Kevin Behr y George Spafford publicaron The Phoenix Project.
+En 2015 la Dra Nicole Forsgren, Gene Kim y Jez Humble fundaron una empresa emergente llamada DORA(DevOps Research and Assessment).
+En 2016 se publico el manual de DevOps
+
+Patrick Dubois inicio el movimiento de DevOps con la simple idea de lograr q el desarrollo y las operaciones trabajaran mejor juntos.
+
+devOps crecio gracias a los esfuerzos de personas influyentes como Patrick Debois, Andfew Shafer, John Allspaw, Nicole Forsgren, Bridget Kromhout, Jez Humble, Gene Kim, John Willis.
+

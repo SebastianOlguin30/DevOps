@@ -1,7 +1,7 @@
 DevOps es un cambio cultural q consiste en el trabajo en conjunto de los ingenieros de desarrollo con los ingeniros de operaciones, los valores de esta cultura son la confianza, comunicacion
 Objetivo de la cultura DevOps : Agilidad
 
-###3 PILARES DE Agilidad
+#3 PILARES DE AGILIDAD
 1.- DEVOPS
 Cambio cultural
 Procesos automatizados
@@ -21,7 +21,7 @@ Contenedores para tiempos de ejecucion efimeros con un inicio rapido
 
 DevOps tiene 3 dimensiones: Cultura, Metodos y Herramientas
 
-Metodologia Waterfall (Cascada)
+#METODOLOGIA WATERFALL (Cascada)
 
 Requerimientos, Diseño, Codigo, integracion, testing, Despliegue
 
@@ -35,7 +35,7 @@ Estos retrasos generan largos plazos de entrega entre entregas
 Los equipos trabajan por separado y no son conscientes del impacto que tienen los unos en los otros
 Las personas q estan mas alejdas del codigo, el equipo de oepraciones tiene q implementarlo, ejecutarlo y administrarlo en produccion
 
-XP, AGILE and BEYOND
+#XP, AGILE and BEYOND
 Describir como XP fue el comienzo de Agile 
 Describir como Agile fue el comienzo de DevOps
 
@@ -50,7 +50,7 @@ Hacer funcionar el software por encima de la documentacion exhaustiva.
 Colaboracion con los clientes por encima de la negociaciond e contratos.
 Responder a los cambios en vez de seguir un plan
 
-DESARROLLO AGILE
+#DESARROLLO AGILE
 Los requisitos y las soluciones evolucionan a tarves de un esfuerzo entre equipos multidisciplinarios y sus clientes q se autoorganizan.
 Planificacion adaptativa.
 Desarrollo evolutivo.
@@ -63,7 +63,7 @@ Patrick Debois se dio cuenta de q necesitamos q el personal de operaciones sea a
 Shadow IT
 Hay recursos q la empresa desconoce pq la gente acude al TI shop, pq TI no satisface sus necesidades.
 
-UNA BREVE HISTORIA DE DEVOPS
+#UNA BREVE HISTORIA DE DEVOPS
 Enumerar ejemplos clave del crecimiento de DevOps que se produjo entre 2007 y 2019.
 Resumir la contribucion de personas clave influyentes en el crecimiento de DevOps.
 
@@ -80,3 +80,44 @@ Patrick Dubois inicio el movimiento de DevOps con la simple idea de lograr q el 
 
 devOps crecio gracias a los esfuerzos de personas influyentes como Patrick Debois, Andfew Shafer, John Allspaw, Nicole Forsgren, Bridget Kromhout, Jez Humble, Gene Kim, John Willis.
 
+#PRINCIPIOS DE CODIFICACION SOCIAL
+Describir los principios de codificacion social.
+Reconocer como la programacion en pares crea un mejor codigo y mejores programadores.
+
+Codigo abierto para codigo interno
+Todos los repositorios son publicos
+Se anima a todos a compartir el codigo y contribuir
+La anarquia es controlada via Pull Request
+
+-Dilema de la reutilizacion del codigo
+El codigo tiene 80% de lo q necesitas pero el 20% esta perdido.
+Como agregas ese 20% perdido?.
+Hacer un requerimiento y depender de otro equipo?.
+Reconstruir el 100% de lo q tu necesitas (no dependes de nadie).
+
+-Solucion de Codificacion Social.
+Hablas de la nueva funcion con el propietario del repositorio.
+Aceptas desarrollarla para el.
+Abres un Issue de GitHub y te la asignas a ti mismo para q todos sepan q estas trabajando en ella.
+Bifurcas (fork) el repositorio, creas una rama y realizas los cambios.
+Levantas un Pull request para q el dueño del repositorio pueda decidir si quiere combinar tu codigo con el proyecto principal.
+Los propietarios del repositorio tienen el control total
+
+-Pair Progamming (Programacion en pares).
+2 programadores comparten una sola estacion de trabajo (Una pantalla, un teclado, un mouse).
+Al programador del teclado se le llama conductor (driver).
+Al otro programador se le llama navegador (navigator).
+Cada 20 minutos intercambian roles.
+
+-Beneficios de Pair Progamming.
+Codigo de mayor calidad.
+Los defectos del codigo se encuentran antes.
+Reduce los costos de mantencion.
+Transferencia de habilidades. Crea mejores programadores.
+Tiene dos pares de ojo en cada linea del codigo.
+Conduce a una mejor comprension del codigo.
+
+-Conclusiones: 
+Codificacion Social se realiza de forma comunitaria con repositorios publicos y se anima a todos los miembros del grupo a contribuir.
+El Pair Programming da como resultados:
+	Un codigo de mayor calidad, defectos se encuentran antes, los costos de mantencion se reducen, se consigue una comprension mas amplia del codigo base.

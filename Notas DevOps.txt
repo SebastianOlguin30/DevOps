@@ -121,3 +121,51 @@ Conduce a una mejor comprension del codigo.
 Codificacion Social se realiza de forma comunitaria con repositorios publicos y se anima a todos los miembros del grupo a contribuir.
 El Pair Programming da como resultados:
 	Un codigo de mayor calidad, defectos se encuentran antes, los costos de mantencion se reducen, se consigue una comprension mas amplia del codigo base.
+	
+###DIRECTRICES DEL REPOSITORIO GIT
+Explicar como el flujo de trabajo de git feature branch apoya la codificacion social.
+
+Crea un repositorio git para cada componente.
+Crea una nueva rama por cada problema.
+Usa Pull Request para fusionar tu codigo con el codigo maestro.
+Nunca fusiones tu propio Pull Request. Cada Pull Request es una oportunidad para revisar el codigo.
+
+Conclusiones:
+Crear un repositorio por componente, seguir el flujo de trabajo de Git Feature Branch, crear ramas y usar Pull Request es una buena practica.
+
+###TRABAJAR EN LOTES PEQUEÑOS.
+Explicar como trabajar en lotes pequeños.
+Reconocer como el flujo de una sola pieza produce una retroalimentacion mas rapida.
+
+Concepto de Lean Manufacturing.
+Retroalimentacion rapida.
+Permite experimentar mas para obtener un feedback rapido.
+Minimiza desperdicios. Pq obtienes feedback mas rapido.
+Entregas mas rapidas.
+El tamaño de las funciones permite Releases mas frecuentes.
+Las funciones deberian poder ser completadas en un sprint. (1 semana o menos).
+Las funciones q crees son un paso hacia tu objetivo. Mantenlas pequeñas.
+
+-Conclusiones:
+Trabajr en lotes pequeños significa entregar algo util rapidamente.
+El uso de un flujo de una sola pieza conduce a ciclos de feedback mas rapidos.
+
+###MINIMUN VIABLE PRODUCT (MVP producto minimo viable)
+Definir un MVP.
+Reconocer como se debe utilizar un MVP para dar al cliente lo q realmente quiere.
+
+MVP no es la ""Fase 1" de un proyecto.
+Un MVP es lo minimo q se puede hacer para probar una hipotesis de valor y obtener aprendizaje.
+MVP esta enfocado en el aprendizaje no en la entrega.
+Al final de cada MVP tu decides si quieres dar un giro o perseverar.
+MVP es una herramienta para el aprendizaje.
+El experimento tal vez falle y eso esta bien.
+El fracaso lleva a la comprension.
+Q aprendio de ese fracaso, de ese experiento?.
+Q haras diferente la proxima vez?.
+
+-Conclusiones:
+MVP es lo minimo q puedo hacer para probar mi hipotesis.
+MVP no se basa tanto en la entrega como en el aprendizaje.
+No pasa nada si el MVP fracasa, asegurate de aprender del.
+
